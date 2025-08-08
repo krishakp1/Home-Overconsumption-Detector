@@ -1,0 +1,8 @@
+device_type,power_watt,status
+light,15,on
+fan,75,on
+air_conditioner,1500,off
+fridge,200,on
+tv,100,off
+computer,300,on
+washer,500,on
